@@ -1,0 +1,10 @@
+
+#extremely important to keep on yolo folder
+
+path: data  # dataset root directory
+train: C:\Armazenamento\yolov5-master\data\images  # train images (relative to 'path') 
+val: C:\Armazenamento\yolov5-master\data\images  # val images (relative to 'path') 
+#test:  test images (optional)
+# number of classes
+nc: 1
+names: ["Finding"]
